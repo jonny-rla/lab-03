@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-https://kotlinlang.org/docs/lambdas.html#underscore-for-unused-variables
+https://kotlinlang.org/docs/lambdas.html
 
 ## Verbal Collaboration
 
